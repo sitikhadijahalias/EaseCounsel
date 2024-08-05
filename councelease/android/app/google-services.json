@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820810400880",
+    "project_id": "easecounsel05",
+    "storage_bucket": "easecounsel05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820810400880:android:55a7bac6acbcb8a61120b5",
+        "android_client_info": {
+          "package_name": "com.example.councelease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6ogsPKyX2vOLVBtStPCwS5gc4bAUNq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

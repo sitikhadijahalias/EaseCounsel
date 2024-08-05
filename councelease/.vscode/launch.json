@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\Main Page\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\Main Page\\main.dart"
+        },
+        {
+            "name": "Flutter (lib\\Main Page\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\Main Page\\main.dart"
+        },
+        {
+            "name": "Flutter (lib\\Main Page\\main.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\Main Page\\main.dart"
+        }
+    ]
+}
